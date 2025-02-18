@@ -1,5 +1,4 @@
 import streamlit as st
-from torchvision import models, transforms
 from PIL import Image
 import numpy as np
 
