@@ -1,0 +1,2 @@
+# Novel-AI-based-ensemble-technique-for-efficient-training-of-DNN-on-Brain-Tumor-Detection
+Identifying brain tumors in MRI images is an essential medical imaging endeavor that helps with early diagnosis &amp; therapy. Current solutions result in poor accuracy &amp; misclassification. To categorize brain tumors into 4 groups gliomas, meningiomas, pituitary tumors, healthy cases. Our proposed approach was CNNs &amp; ResNet-50 with accuracy of 98.19%. 
