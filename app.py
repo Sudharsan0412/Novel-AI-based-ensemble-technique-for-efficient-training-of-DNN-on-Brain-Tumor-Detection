@@ -1,8 +1,9 @@
-import torchvision.models as models
-import torchvision.transforms as transforms
 import streamlit as st
 from PIL import Image
-import numpy as np
+import torch
+import torchvision.models as models
+import torchvision.transforms as transforms
+
 
 # Load the saved model
 def load_model():
