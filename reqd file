@@ -1,9 +1,0 @@
-streamlit
-torch
-torchvision
-Pillow
-numpy
-albumentations
-scikit-learn
-matplotlib
-seaborn
