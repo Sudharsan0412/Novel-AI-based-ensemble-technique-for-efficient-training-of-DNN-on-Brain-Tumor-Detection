@@ -1,8 +1,5 @@
 import streamlit as st
 from PIL import Image
-import torch
-import torchvision.models as models
-import torchvision.transforms as transforms
 
 
 # Load the saved model
